@@ -1,6 +1,6 @@
 # calculator.py
 
-from replit import clear
+#import clear function 
 def add(n1,n2):
    return n1+n2 
 #substraction
